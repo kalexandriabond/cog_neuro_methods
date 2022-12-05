@@ -28,7 +28,7 @@ Within the context of cognitive neuroscience, this course will help you:
 
 
 
-## What this course offers
+# What this course offers
 As your instructor, my utmost concern is your learning (i.e. an improvement in your skill level) as opposed to a demonstration of your knowledge. Notice that this definition of learning focuses on change, not performance. Therefore, I prioritize the following: 
 
 
@@ -38,7 +38,7 @@ As your instructor, my utmost concern is your learning (i.e. an improvement in y
 * **Evaluating your thought processes, not your conclusions.** If you think about it, your capacity to reason about novel situations using concepts you’ve learned in the past relies on your thought process, not a binary assessment of the validity of your conclusion. So, this course focuses on how you arrive at a conclusion rather than the conclusion itself.  
 
 
-## What I expect from you
+# What I expect from you
 My goal is to make this an effective and supportive learning experience. To this end, the following will be expected of you:
 
 **Be present. Attend class.** In class, be present (not on laptop, phone, etc.). This will ultimately save you time and it’s most effective for learning. There is a no-laptop no-phone policy.
@@ -50,7 +50,7 @@ My goal is to make this an effective and supportive learning experience. To this
 **Be respectful of me, yourself, and others.** Be considerate of others’ and your own individuality, ideas, time, and energy. 
 
 
-## What you will do
+# What you will do
 **Reading and participation** Most classes have assigned reading as preparation for class participation. Reading materials will be posted on Canvas. To jog your thinking, a short answer in response to the reading will be due before each class. This short answer response will count as your reading and participation grade. 
 
 **Quizzes** Up to 10 classes will have pop quizzes testing basic knowledge about the required reading for that class. These will be administered at the beginning of the class when they do happen. Do your reading!
