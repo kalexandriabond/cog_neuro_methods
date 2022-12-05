@@ -20,20 +20,12 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+  - name: Tuesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
+        start: 1 PM
+        end: 3:20 PM
+        location: 340 Baker Hall
   - name: Wednesday
     events:
       - name: Lecture
