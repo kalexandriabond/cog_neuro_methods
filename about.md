@@ -17,17 +17,47 @@ description: >-
 ---
 
 # Why should you take this course? 
+This course will introduce you to the field of cognitive neuroscience, or the study of the neural processes driving cognition (what we think) and behavior (what we do). The overarching goal of this course is to develop your ability to think like a cognitive neuroscientist. This includes understanding the relationship between theory and empiricism, learning how to define a research question, how to design experiments to test hypotheses, how to interpret results, and how to draw conclusions that respect the limitations of the data. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Within the context of cognitive neuroscience, this course will help you:
+
+* Develop the capacity to critically evaluate research
+* Scaffold your own research projects
+* Refine your capacity for independent, contextualized thinking
+* Satisfy your curiosity about the brain. Maybe you’re a curious person. Maybe you’d like to be a curious person. Either way, welcome!  
+
+
 
 ## What this course offers
+As your instructor, my utmost concern is your learning (i.e. an improvement in your skill level) as opposed to a demonstration of your knowledge. Notice that this definition of learning focuses on change, not performance. Therefore, I prioritize the following: 
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+
+* **Conceptual understanding, not rote memorization or reiterating what you already know.** Unlike a neuroanatomy class where verbatim knowledge may be tested, you’ll be expected to reason using the concepts you’ve learned, not repeat their definitions. 
+* **Growth.** I’ll provide an opportunity to safely make mistakes and learn from them. You will be rewarded for making mistakes. Yes, you read that correctly. The only way to grow is to try something new.
+* **Active learning and collaboration with others.** Time spent in class will often involve applying what you’ve learned in an interactive way (and challenging the things you know). 
+* **Evaluating your thought processes, not your conclusions.** If you think about it, your capacity to reason about novel situations using concepts you’ve learned in the past relies on your thought process, not a binary assessment of the validity of your conclusion. So, this course focuses on how you arrive at a conclusion rather than the conclusion itself.  
+
 
 ## What I expect from you
+My goal is to make this an effective and supportive learning experience. To this end, the following will be expected of you:
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+**Be present. Attend class.** In class, be present (not on laptop, phone, etc.). This will ultimately save you time and it’s most effective for learning. There is a no-laptop no-phone policy.
+
+**Be engaged.**  This means reading material in advance when appropriate, thinking about how the material relates to other content, asking the questions you have, and attending to your fellow students when they seek feedback.  
+
+**Ask when you need help.** Everyone needs help at some point. Every single human being. After you’ve exerted a reasonable amount of effort, don’t stay stuck! Instead, please be kind to yourself and ask your questions, whether it be of me or your collaborators.
+
+**Be respectful of me, yourself, and others.** Be considerate of others’ and your own individuality, ideas, time, and energy. 
+
 
 ## What you will do
+**Reading and participation** Most classes have assigned reading as preparation for class participation. Reading materials will be posted on Canvas. To jog your thinking, a short answer in response to the reading will be due before each class. This short answer response will count as your reading and participation grade. 
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+**Quizzes** Up to 10 classes will have pop quizzes testing basic knowledge about the required reading for that class. These will be administered at the beginning of the class when they do happen. Do your reading!
+
+**Final Project** At the end of the semester, you will apply what you’ve learned and engage with the scientific process, including literature review, hypothesis generation, and experimental design. You will present your hypothesized results to the Psychology Department as a poster. Details of this exercise will be given later in the semester.
+
+**Extra credit** To incentivize learning, I will award extra credit to those who demonstrate at least a letter-grade improvement over the semester. I’ll compare grades from the beginning of class to the mid-semester point (1/17-3/2) to grades earned after the mid-semester point to the final day of class (3/2-4/28).
+
+
+
