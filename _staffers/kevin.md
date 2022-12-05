@@ -1,9 +1,8 @@
 ---
-name: Kevin Lin
+name: Alexandria Bond
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: kbond@andrew.cmu.edu
+photo: me.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendly.com/kalexandriabond){: .btn .btn-outline }
