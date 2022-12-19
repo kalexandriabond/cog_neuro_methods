@@ -2,22 +2,15 @@
 title: Introduction to Java
 ---
 
-Sep 28
-: [Java & Git](#)
+Jan 19
+: [welcome](#)
   : [1.1](#)
 
-Sep 29
+Jan 24
 : **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+  : [What is cognitive neuroscience?](#)
 
-Sep 30
-: [Variables & Objects](#)
+Jan 26
+: [What is empiricism?](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
