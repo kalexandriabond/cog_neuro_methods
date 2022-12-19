@@ -4,13 +4,13 @@ title: Onboarding
 
 Jan 19
 : [welcome](#)
-  : [1.1](#)
+ # todo: add reading/prep for each class as link
 
 Jan 24
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [What is cognitive neuroscience?](#)
+: **Section**{: .label .label-purple }[What is cognitive neuroscience?](#)
+ 
 
 Jan 26
 : [What is empiricism?](#)
-  : [1.2](#), [2.1](#)
+ 
 
