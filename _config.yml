@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+ # Kevin Lin:
     - 
   Just the Class on GitHub:
     - 
