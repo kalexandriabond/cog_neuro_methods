@@ -2,15 +2,16 @@
 title: Onboarding
 ---
 
+Jan 17
+: [Welcome](#)
+
 Jan 19
-: [welcome](#)
- # todo: add reading/prep for each class as link
+: [What is cognitive neuroscience?](#)
 
 Jan 24
-: **Section**{: .label .label-purple }[What is cognitive neuroscience?](#)
- 
+ : [What is empiricism?](#)
 
 Jan 26
-: [What is empiricism?](#)
+: [What is theory?](#)
  
 
