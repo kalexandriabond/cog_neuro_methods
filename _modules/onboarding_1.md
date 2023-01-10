@@ -2,9 +2,11 @@
 title: Onboarding
 ---
 
+Below you'll find a calendar of topics. Note that linked materials for each topic are for class preparation. Please read/listen to them before class. (I am not afraid of awkward silences :)).
+
 Jan 17
 :   Welcome  
-  : Come with curiosity about the brain.
+    : Come with curiosity about the brain.
 
 Jan 19
 :   What is cognitive neuroscience?  
