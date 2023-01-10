@@ -8,7 +8,7 @@ Jan 17
 
 Jan 19
 : [What is cognitive neuroscience?]
-  : [Reading](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings)
+  : [Reading](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/)
 
 Jan 24
  : [What is empiricism?]
