@@ -3,10 +3,12 @@ title: Onboarding
 ---
 
 Jan 17
-: [Welcome](#)
+: [Welcome](#) 
+  : [Come with curiosity about the brain.]
 
 Jan 19
 : [What is cognitive neuroscience?](#)
+  : [Reading]("/assets/readings/")
 
 Jan 24
  : [What is empiricism?](#)

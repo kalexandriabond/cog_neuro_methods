@@ -49,6 +49,7 @@ defaults:
       type: modules
     values:
       layout: module
+      subpath: '/assets/readings/'
   - scope:
       path: ''
       type: schedules
