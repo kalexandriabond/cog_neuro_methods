@@ -17,12 +17,12 @@ Jan 19
 Jan 24
  :   What is empiricism?  
      : [Big data vs. big theory.](https://www.cogneurosociety.org/big-data-versus-big-theory-watch-the-cns-2018-debate/)
-     : [Combining hypothesis-and data-driven neuroscience modeling in FAIR workflows.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/eriksson_et_2022.pdf)
+     : [Combining hypothesis- & data-driven neuroscience modeling.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/eriksson_et_2022.pdf)
 
 Jan 26
 :   What is theory?  
     : [You can't play 20 questions with nature and win.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/newell_1973.pdf)
-    : [How to play 20 questions with nature and lose.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/katz_shah_meyer_2018.pdf)
+    : [How to play 20 questions with nature & lose.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/katz_shah_meyer_2018.pdf)
 
 Jan 31
 :   How to form and test a hypothesis?  
