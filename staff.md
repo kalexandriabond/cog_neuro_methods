@@ -21,3 +21,5 @@ description: Contact methods.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+**Office hours are on Fridays from 1-3pm.**
