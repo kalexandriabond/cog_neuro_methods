@@ -4,18 +4,24 @@ title: Neuroscientific tools
 
 Feb 21
 :  The importance of behavior  
+    : [Neuroscience needs behavior](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/rooij_baggio_2021.pdf)
 
 Feb 23
 :  fMRI introduction  
+    : [A Hitchhiker's guide to functional magnetic resonance imaging.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/soares_et_2016.pdf)
 
 Feb 28
 :   fMRI advantages and limitations   
+    : [What we can do and what we cannot do with fMRI.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/logothetis_2008.pdf)
 
 March 2
 :   Open science and closed science   
+    : [Estimating the reproducibility of psychological science.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/osf_2015.pdf)
+    : [Best practices in data analysis and sharing in neuroimaging using MRI.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/nichols_et_2017.pdf)
 
 March 7 + March 9
 :  **SPRING BREAK**  
 
 March 14
 :   Brainstorming with others   
+    : **Come prepared with coarse ideas**
