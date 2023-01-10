@@ -23,6 +23,7 @@ March 2
 March 7 + March 9
 :  **SPRING BREAK**  
    : Have fun
+
 March 14
 :   Brainstorming with others   
     : **Come prepared with coarse ideas of what catches your interest.**

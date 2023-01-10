@@ -8,12 +8,12 @@ Feb 7
 
 Feb 9
 :    Paper presentations: Day 1   
-    : **DIY (you choose)**
+     : **DIY (you choose)**
 
 Feb 14
 :    Paper presentations: Day 2   
-    : **DIY**
+     : **DIY**
 
 Feb 16
 :    Paper presentations : Day 3  
-    : **DIY**
+     : **DIY**
