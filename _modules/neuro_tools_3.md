@@ -17,11 +17,12 @@ Feb 28
 March 2
 :   Open science and closed science   
     : [Estimating the reproducibility of psychological science.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/osf_2015.pdf)
+
     : [Best practices in data analysis and sharing in neuroimaging using MRI.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/nichols_et_2017.pdf)
 
 March 7 + March 9
 :  **SPRING BREAK**  
-
+   : Have fun
 March 14
 :   Brainstorming with others   
-    : **Come prepared with coarse ideas**
+    : **Come prepared with coarse ideas of what catches your interest.**

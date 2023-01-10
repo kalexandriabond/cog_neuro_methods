@@ -4,11 +4,11 @@ title: Empiricism + theory complement one another
 
 Feb 7
 :    Linking empiricism to theory   
-    : [Theory before the test](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/alger_2020.pdf)
+     : [Theory before the test](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/alger_2020.pdf)
 
 Feb 9
 :    Paper presentations: Day 1   
-    : **DIY: you choose**
+    : **DIY (you choose)**
 
 Feb 14
 :    Paper presentations: Day 2   
