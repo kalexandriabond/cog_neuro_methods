@@ -3,24 +3,21 @@ title: Onboarding
 ---
 
 Jan 17
-: [Welcome](#) 
-  : [Come with curiosity about the brain.]
+: [Welcome]
+  : Come with curiosity about the brain.
 
 Jan 19
-: [What is cognitive neuroscience?](#)
+: [What is cognitive neuroscience?]
   : [Reading](../assets/readings/)
 
 Jan 24
- : [What is empiricism?](#)
+ : [What is empiricism?]
 
 Jan 26
-: [What is theory?](#)
- 
+: [What is theory?]
+
 Jan 31
-: [How to form and test a hypothesis?](#)
+: [How to form and test a hypothesis?]
 
-Feb 2 
-: [The structure of a scientific paper](#)
-
-
-
+Feb 2
+: [The structure of a scientific paper]
