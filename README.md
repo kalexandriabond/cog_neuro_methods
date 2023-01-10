@@ -9,7 +9,7 @@ seo:
 ---
 
 # Welcome!
-Here you'll find information for Cognitive Neuroscience Research Methods as taught in Spring 2023: 
+Here you'll find the following information for Cognitive Neuroscience Research Methods as taught in Spring 2023: 
 
 - [expectations and resources](about.md),
 - a [course calendar](calendar.md),
