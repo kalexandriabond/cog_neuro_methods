@@ -92,3 +92,19 @@ Numerical grades will be rounded to the nearest whole number to determine the co
 
 # Honor Code
  There is zero tolerance for academic dishonesty. Any evidence of copying, duplication or any evidence of plagiarism (copying someone else's writing, or failing to cite the work, ideas or writings of  someone else, and presenting it as your own) will result in an automatic zero on the assignment, and submission of an Academic Honesty Incident Form. This applies to oral presentations with equal force. If you have questions on any issue related to academic honesty, please consult the [University Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
+
+# Resources to support you
+**Slack** Class communication will be via a Slack [workspace](https://join.slack.com/t/andrew-qq91820/shared_invite/zt-1n0n6gza8-7X6aPTMLqr6isI3uwrcdTQ). Please post your questions publicly so that others have the benefit of learning the answer.
+
+**Canvas** There is no textbook for this course. Course materials can be accessed via Canvas with your CMU credentials.
+
+**Office hours** Office hours are available by appointment or from 1-3pm on Fridays in Baker 436Q. I’m happy to meet ad hoc via Zoom.
+
+**Tutoring** The Student Academic Success Center offers course support in the form of supplemental instruction, peer tutoring, and drop-in tutoring. See their site for more detail.
+
+**Equal opportunity accommodations** All efforts will be made to minimize conflict with students’ religious schedules (e.g., holidays, prayer services, etc.) and/or any disabilities. Students should consult with the Equal Opportunity Services (EOS) at the beginning of the semester to set up any necessary accommodations for this class.
+
+**Self-care** Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful.
+
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression,we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.
