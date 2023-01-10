@@ -60,26 +60,35 @@ My goal is to make this an effective and supportive learning experience. To this
 **Extra credit** To incentivize learning, I will award extra credit to those who demonstrate at least a letter-grade improvement over the semester. I’ll compare grades from the beginning of class to the mid-semester point (1/17-3/2) to grades earned after the mid-semester point to the final day of class (3/2-4/28).
 
 
-**Grading**
+# Grading
 Grades will be calculated according to the following scheme:
 
 *Reading and participation* 38%
+
 *Quizzes* 20%
+
 *Final project* 42%
+
 *Extra credit* 2%
+
 
 **Letter assignments**
 Letter grades will be assigned as below:
 
 97-100% A+
+
 93-96: A
+
 90-93: A-
+
 87-89: B+ …and so on
 
 Numerical grades will be rounded to the nearest whole number to determine the corresponding letter-grade.
 
 **Late work policy** There is a 10% penalty per week an assignment is late. An assignment submitted 2 weeks late would have a 20% penalty, 3 weeks late results in a 30% penalty, and so on. This excludes the Final Project, as it is due at the end of the semester.
 
-**Code of conduct** It is my intent to present materials and activities that are respectful of the diverse backgrounds and perspectives of students in the classroom. You may feel free to let me know ways to improve  the effectiveness of the course for you personally or for other students or student groups. If you feel uncomfortable discussing this with me, you may voice your concerns to the Chair of the Department (Mike Tarr, michaeltarr@cmu.edu) or the Chair of the Diversity and Inclusion Committee, Kody Manke (kmanke@andrew.cmu.edu).
+# Code of conduct
+ It is my intent to present materials and activities that are respectful of the diverse backgrounds and perspectives of students in the classroom. You may feel free to let me know ways to improve  the effectiveness of the course for you personally or for other students or student groups. If you feel uncomfortable discussing this with me, you may voice your concerns to the Chair of the Department (Mike Tarr, michaeltarr@cmu.edu) or the Chair of the Diversity and Inclusion Committee, Kody Manke (kmanke@andrew.cmu.edu).
 
-**Honor Code** There is zero tolerance for academic dishonesty. Any evidence of copying, duplication or any evidence of plagiarism (copying someone else's writing, or failing to cite the work, ideas or writings of  someone else, and presenting it as your own) will result in an automatic zero on the assignment, and submission of an Academic Honesty Incident Form. This applies to oral presentations with equal force. If you have questions on any issue related to academic honesty, please consult the [University Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
+# Honor Code
+ There is zero tolerance for academic dishonesty. Any evidence of copying, duplication or any evidence of plagiarism (copying someone else's writing, or failing to cite the work, ideas or writings of  someone else, and presenting it as your own) will result in an automatic zero on the assignment, and submission of an Academic Honesty Incident Form. This applies to oral presentations with equal force. If you have questions on any issue related to academic honesty, please consult the [University Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
