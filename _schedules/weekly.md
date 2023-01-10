@@ -23,15 +23,15 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 1 PM
+        start: 2 PM
         end: 3:20 PM
-        location: 340 Baker Hall
+        location: 332P Baker Hall
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
-        start: 1 PM
+        start: 2 PM
         end: 3:20 PM
-        location: 340 Baker Hall
+        location: 332P Baker Hall
   - name: Friday
 ---
