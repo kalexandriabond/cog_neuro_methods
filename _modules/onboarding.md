@@ -14,4 +14,11 @@ Jan 24
 Jan 26
 : [What is theory?](#)
  
+Jan 31
+: [How to form and test a hypothesis?](#)
+
+Feb 2 
+: [The structure of a scientific paper](#)
+
+
 
