@@ -3,29 +3,25 @@ title: Engaging with the scientific process
 ---
 
 March 30
-: ['Reviewing the literature'](#)
+: [ Reviewing the literature ](#)
 
 April 4
-: ['Hypothesizing'](#)
+: [ Hypothesizing ](#)
 
 April 6
-: ['Designing an experiment'](#)
+: [ Designing an experiment ](#)
 
 April 11
-: ['Predicting results'](#)
+: [ Predicting results ](#)
 
-April 13 
-: ['SPRING CARNIVAL'](#)
+April 13
+: [ SPRING CARNIVAL ](#)
 
 April 18
-: ['Drawing conclusions and implications'](#)
+: [ Drawing conclusions and implications ](#)
 
 April 20
-: ['Poster practice'](#)
+: [ Poster practice ](#)
 
-April 25: 
-: ['Poster practice'](#)
-
-
-
-
+April 25:
+: [ Poster practice ](#)
