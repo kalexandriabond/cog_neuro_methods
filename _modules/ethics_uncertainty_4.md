@@ -20,4 +20,4 @@ March 23
 
 March 28
 :   The idea of a "right" answer  
-    : [All models are wrong: reflections on becoming a systems scientist.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/sterman_2022.pdf)
+    : [All models are wrong: reflections on becoming a systems scientist.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/sterman_2002.pdf)
