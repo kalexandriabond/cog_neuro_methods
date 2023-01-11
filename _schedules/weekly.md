@@ -34,4 +34,9 @@ schedule:
         end: 3:20 PM
         location: 332P Baker Hall
   - name: Friday
+    events:
+      - name: Office hours
+        start: 1 PM
+        end: 3 PM
+        location: 436Q Baker Hall
 ---
