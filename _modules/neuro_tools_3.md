@@ -4,7 +4,7 @@ title: Neuroscientific tools
 
 Feb 21
 :  The importance of behavior  
-    : [Neuroscience needs behavior](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/rooij_baggio_2021.pdf)
+    : [Neuroscience needs behavior](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/krakauer_et_2017.pdf)
 
 Feb 23
 :  fMRI introduction  
