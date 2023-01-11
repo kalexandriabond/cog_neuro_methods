@@ -15,5 +15,5 @@ Feb 14
      : **DIY**
 
 Feb 16
-:    Paper presentations : Day 3  **Due**{: .label .label-red }
+:    Paper presentations: Day 3  **Due**{: .label .label-red }
      : **DIY**

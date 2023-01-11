@@ -13,7 +13,7 @@ Jan 19
 Jan 24
  :   What is empiricism?  
      : [Big data vs. big theory.](https://www.cogneurosociety.org/big-data-versus-big-theory-watch-the-cns-2018-debate/)
-     : [Combining hypothesis- & data-driven neuroscience modeling.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/eriksson_et_2022.pdf)
+     : [Hypothesis- & data-driven neuro. modeling.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/eriksson_et_2022.pdf)
 
 Jan 26
 :   What is theory?  
@@ -27,5 +27,5 @@ Jan 31
 
 Feb 2
 :   The structure of a scientific paper  
-    : [Ten simple rules for reading a scientific paper.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/carey_steiner_petri_2020.pdf)
-    : [Ten simple rules for structuring papers.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/mensh_kording_2017.pdf)
+    : [10 simple rules for reading a scientific paper.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/carey_steiner_petri_2020.pdf)
+    : [10 simple rules for structuring papers.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/mensh_kording_2017.pdf)

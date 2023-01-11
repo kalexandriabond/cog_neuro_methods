@@ -8,17 +8,17 @@ Feb 21
 
 Feb 23
 :  fMRI introduction  
-    : [A Hitchhiker's guide to functional magnetic resonance imaging.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/soares_et_2016.pdf)
+    : [A Hitchhiker's guide to functional magnetic resonance imaging](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/soares_et_2016.pdf)
 
 Feb 28
 :   fMRI advantages and limitations   
-    : [What we can do and what we cannot do with fMRI.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/logothetis_2008.pdf)
+    : [What we can do and what we cannot do with fMRI](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/logothetis_2008.pdf)
 
 March 2
 :   Open science and closed science   
-    : [Estimating the reproducibility of psychological science.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/osf_2015.pdf)
+    : [Estimating the reproducibility of psych.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/osf_2015.pdf)
 
-    : [Best practices in data analysis and sharing in neuroimaging using MRI.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/nichols_et_2017.pdf)
+    : [Best practices in neuroimaging data analysis](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/nichols_et_2017.pdf)
 
 March 7 + March 9
 :  **SPRING BREAK**  

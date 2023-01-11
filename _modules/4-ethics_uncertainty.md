@@ -8,7 +8,7 @@ March 16
 
 March 21
 :   Research ethics  
-    : [The Belmont Report.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/belmont.pdf)
+    : [Belmont Report.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/belmont.pdf)
 
     : [Nonhuman animal ethics.](https://sitn.hms.harvard.edu/podcast/2016/episode-9-animal-not-human-aka-episode-animal-models/)
 
