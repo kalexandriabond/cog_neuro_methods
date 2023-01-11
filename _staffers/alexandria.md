@@ -1,5 +1,5 @@
 ---
-name: Alexandria Bond
+name: Dr. Alexandria Bond
 role: Instructor
 email: kbond@andrew.cmu.edu
 photo: me.jpg
