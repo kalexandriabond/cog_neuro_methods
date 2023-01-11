@@ -5,8 +5,6 @@ description: Contact methods.
 ---
 
 
-## Feel free to email, attend office hours, or schedule an appointment with me if you have questions or need help.  
-
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
