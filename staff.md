@@ -16,8 +16,6 @@ description: Contact methods.
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-Office hours are regularly scheduled on Fridays from 1-3pm in 436Q Baker Hall.
-
 ## Teaching Assistants
 
 {% for staffer in teaching_assistants %}
