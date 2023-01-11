@@ -22,7 +22,7 @@ Jan 26
 
 Jan 31
 :   How to form and test a hypothesis?  
-    : [If deep learning is the answer, what is the question?](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings//home/zetetic/Documents/cog_neuro_methods/assets/readings/saxe_nelli_summerfield_2021.pdf)
+    : [If deep learning is the answer, what is the question?](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/saxe_nelli_summerfield_2021.pdf)
     : [Scientific hypothesis-testing strengthens neuroscience research.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/alger_2020.pdf)
 
 Feb 2
