@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# Cognitive Neuroscience Resaerch Methods (Spring 2022)
 {:.no_toc}
 
 ## Table of contents
