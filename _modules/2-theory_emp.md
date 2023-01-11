@@ -8,7 +8,7 @@ Feb 7
 
 Feb 9
 :    Paper presentations: Day 1   
-     : **DIY (you choose)**
+     : **DIY (you choose)** Due{: .label .label-red}
 
 Feb 14
 :    Paper presentations: Day 2   
