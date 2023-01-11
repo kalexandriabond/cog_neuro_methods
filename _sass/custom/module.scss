@@ -18,7 +18,7 @@
     border-top: $border $border-color;
     display: grid;
     grid-template-columns: max-content 2fr;
-    margin: $sp-2 (-$sp-4);
+    margin: $sp-.4 (-$sp-1.5);
 
     &:first-child {
       margin-top: 0;
@@ -29,7 +29,7 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      grid-template-columns: 1fr 5fr;
     }
 
     %module-item {
