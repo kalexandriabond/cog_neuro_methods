@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cog. Neuro. Research Methods
-tagline: To study the brain
-description:
+title: Cog. Neuro. Methods
+tagline: 
+description: To study the brain
 author: K. Alexandria Bond
 baseurl: '/cog_neuro_methods' # the subpath of your site, e.g. /blog
 url: 'https://kalexandriabond.github.io' # the base hostname & protocol for your site, e.g. http://example.com
