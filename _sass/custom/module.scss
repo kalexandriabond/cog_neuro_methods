@@ -18,7 +18,7 @@
     border-top: $border $border-color;
     display: grid;
     grid-template-columns: max-content 2fr;
-    margin: $sp-.4 (-$sp-1.5);
+    margin: $sp-2 (-$sp-4);
 
     &:first-child {
       margin-top: 0;
