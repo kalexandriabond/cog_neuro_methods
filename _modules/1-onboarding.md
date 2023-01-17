@@ -9,6 +9,7 @@ Jan 17
 Jan 19
 :   What is cognitive neuroscience?  
     : [Cognitive neuroscience: Origins and promise.](https://github.com/kalexandriabond/cog_neuro_methods/tree/main/assets/readings/posner_digirolamo_2000.pdf)
+    : [Updated view.](https://github.com/kalexandriabond/cog_neuro_methods/blob/main/assets/readings/altimus_et_2020.pdf)
 
 Jan 24
  :   What is empiricism?  
