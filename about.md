@@ -75,13 +75,9 @@ Grades will be calculated according to the following scheme:
 **Letter assignments**
 Letter grades will be assigned as below:
 
-97-100% A+
+90-100: A
 
-93-96: A
-
-90-93: A-
-
-87-89: B+ …and so on
+80-89: B …and so on
 
 Numerical grades will be rounded to the nearest whole number to determine the corresponding letter-grade.
 
