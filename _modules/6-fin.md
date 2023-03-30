@@ -4,4 +4,5 @@ title: Fin~
 
 April 27
 :   Retrospective + creativity in science {Guest speaker}
-    : **Come prepared to share the most surprising thing you learned.**
+    : [Night science. S1E1.](https://night-science.org/the-night-science-podcast/)
+
