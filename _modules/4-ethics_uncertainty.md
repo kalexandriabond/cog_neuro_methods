@@ -10,7 +10,7 @@ March 21
 :   R crash course  
 
 March 23
-:   ~~The creativity of science ~~ 
+:   ~~The creativity of science~~ 
 
 March 28
 :   The idea of a "right" answer  
